@@ -1,0 +1,3 @@
+/workspaces/arm_freertos/build/debug/build/CMakeFiles/rebuild_cache.dir
+/workspaces/arm_freertos/build/debug/build/CMakeFiles/edit_cache.dir
+/workspaces/arm_freertos/build/debug/build/CMakeFiles/arm_freertos.dir

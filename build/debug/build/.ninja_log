@@ -1,0 +1,22 @@
+# ninja log v5
+0	487	1696679103473856843	CMakeFiles/arm_freertos.dir/Core/Src/app_freertos.c.obj	7efd7da3cfce0062
+0	493	1696679103481856844	CMakeFiles/arm_freertos.dir/Core/Src/gpio.c.obj	96336a00f238877d
+1	527	1696679103509856845	CMakeFiles/arm_freertos.dir/Core/Src/main.c.obj	3d2931a1ba723517
+494	696	1696679103685856854	CMakeFiles/arm_freertos.dir/Core/Src/stm32g4xx_it.c.obj	bbcbe41a048b16d8
+487	793	1696679103781856859	CMakeFiles/arm_freertos.dir/Core/Src/stm32g4xx_hal_msp.c.obj	888232e44837654d
+795	912	1696679103897856865	CMakeFiles/arm_freertos.dir/Core/Src/sysmem.c.obj	e620436dcf450e9f
+698	927	1696679103917856866	CMakeFiles/arm_freertos.dir/Core/Src/syscalls.c.obj	3c3923309b6d9260
+529	1162	1696679104137856877	CMakeFiles/arm_freertos.dir/Core/Src/stm32g4xx_hal_timebase_tim.c.obj	67a7c1c714e43e1d
+929	1232	1696679104221856881	CMakeFiles/arm_freertos.dir/Core/Src/usart.c.obj	4cf1b3e46cf911ed
+1233	1284	1696679104273856884	CMakeFiles/arm_freertos.dir/Core/Startup/startup_stm32g431kbtx.s.obj	6ee0572e86188c7f
+915	1298	1696679104285856884	CMakeFiles/arm_freertos.dir/Core/Src/system_stm32g4xx.c.obj	574faceaeb7dc1b8
+1164	1310	1696679104297856885	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj	52a1317d54a93f66
+1298	1554	1696679104509856896	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj	4efa3600ad7ac363
+1554	1712	1696679104701856905	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj	9b8a5cb302787f87
+1311	1727	1696679104717856906	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj	e197c63879829266
+1713	1842	1696679104829856912	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj	dc8db1985e6e18b1
+1728	1911	1696679104901856915	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj	1d432b4e0124b680
+1843	2115	1696679105105856926	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj	268a4c383104cdb5
+1912	2181	1696679105169856929	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj	744d0714d0c7e15c
+1286	2194	1696679105181856929	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj	afb67854f7560263
+2115	2370	1696679105357856938	CMakeFiles/arm_freertos.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj	36a1584ec20a7a49
